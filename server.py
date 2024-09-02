@@ -66,7 +66,7 @@ figma_projects = {
         "Platform": "Figma",
         "image": "Task_Figma.png",
         "Summary": "A task management figma project along with a video prototype with personas . Made for the Human-Computer Interaction class @ JHU. ",
-        "Technologies": ["HTML", "CSS", "JavaScript"],
+        "Technologies": ["Figma"],
         "Link": "https://www.youtube.com/watch?v=5DMYFZ9N028",
         "Repo": "https://www.figma.com/design/JBmOtQ0PwSdk8q7U78l3ZV/HCI-Project-1%3A-Group-3?node-id=0-1&t=inpDTKRi9rkxbG6P-1"
     },
@@ -76,7 +76,7 @@ figma_projects = {
         "Platform": "Web",
         "image": "Q2L_Figma.png",
         "Summary": "Initial Figma prototype showcasing UI for the Quest2Learn educational mobile application.",
-        "Technologies": ["HTML", "CSS", "JavaScript"],
+        "Technologies": ["Figma"],
         "Repo": "https://www.figma.com/design/DZlLZPgvzEGFJkk3krRdnz/Quest2Learn-Working-Mockups-(Copy)?node-id=0-1&t=VYyvF0IJJOFlmXt1-1"
     }
 }
