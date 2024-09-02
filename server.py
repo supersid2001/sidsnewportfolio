@@ -9,7 +9,7 @@ mobile_ar_vr_projects = {
         "Name": "Quest2Learn",
         "Platform": "Mobile, AR",
         "image": "Q2L.JPG",
-        "Summary": "A collaborative AR educational app developed with JHU students to enhance STEM learning through interactive lab science modules, winning the 2021 DELTA Award.",
+        "Summary": "A collaborative AR educational mobile app (Android/iOS) developed with JHU students to enhance STEM learning through interactive lab science modules, winning the 2021 DELTA Award.",
         "Technologies": ["Unity", "C#", "Vuforia"],
         "Link": "https://www.youtube.com/watch?v=X1B1jnD45sY"
     },
