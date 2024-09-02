@@ -75,7 +75,7 @@ figma_projects = {
         "Name": "Quest2Learn mobile app prototype",
         "Platform": "Web",
         "image": "Q2L_Figma.png",
-        "Summary": "Initial Figma prototype showcasing UI for the Quest2Learn educational mobile application.",
+        "Summary": "Initial Figma prototype built with Quest2Learn team showcasing UI for the Quest2Learn educational mobile application.",
         "Technologies": ["Figma"],
         "Repo": "https://www.figma.com/design/DZlLZPgvzEGFJkk3krRdnz/Quest2Learn-Working-Mockups-(Copy)?node-id=0-1&t=VYyvF0IJJOFlmXt1-1"
     }
