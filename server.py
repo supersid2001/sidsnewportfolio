@@ -51,7 +51,7 @@ web_projects = {
         "Name": "Notest",
         "Platform": "Web",
         "image": "Notest.png",
-        "Summary": "Notests is a collaborative project with two other JHU students, enhancing e-learning through structured study plans, community sharing, and AI-driven question generation for seamless self-testing.",
+        "Summary": "Notest is a collaborative project with two other JHU students, enhancing e-learning through structured notes and AI-driven question generation for seamless self-testing.",
         "Technologies": ["Next.js", "CSS", "MongoDB"],
         "Repo": "https://github.com/robertzhidealx/notest",
         "Link": "https://youtu.be/VEOxllDq3tE"
