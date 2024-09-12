@@ -11,7 +11,7 @@ mobile_ar_vr_projects = {
         "image": "Q2L.JPG",
         "Summary": "A collaborative AR educational mobile app (Android/iOS) developed with JHU students to enhance STEM learning through interactive lab science modules, winning the 2021 DELTA Award.",
         "Technologies": ["Unity", "C#", "Vuforia"],
-        "Link": "https://www.youtube.com/watch?v=X1B1jnD45sY"
+        "Link": "https://www.youtube.com/watch?v=X1B1jnD45sY&list=PLp3_n_GRwO-QeeNXtHLQ-w0xE6_xH6ONk&index=1"
     },
     "2": {
         "id": "2",
