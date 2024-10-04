@@ -17,6 +17,7 @@
             left: -250px; /* Hidden by default */
             transition: left 0.3s ease;
             padding-top: 60px;
+            z-index: 1050;
         }
         .off-canvas-menu.show {
             left: 0;
@@ -36,7 +37,7 @@
 </head>
 <body>
     <!-- Menu Button -->
-    <span class="menu-button" onclick="toggleOffCanvas()">☰ Open Menu</span>
+    <span class="menu-button" onclick="toggleOffCanvas()">☰</span>
 
     <!-- Off-Canvas Sidebar Menu -->
     <div class="off-canvas-menu" id="offCanvasMenu">
